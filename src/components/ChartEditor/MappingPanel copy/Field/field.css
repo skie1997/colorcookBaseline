@@ -1,0 +1,11 @@
+.field {
+    background-color: #edededcc;
+    font-weight: 500;
+    /* margin : 0px 10px -10px 10px; */
+    margin:-5px auto;
+    padding: 3px 6px; /*标签文字居中 */
+    width: 220px;
+    height: 24px;
+    text-align: left;
+    box-shadow: 2px 2px 2px #dddddd;
+}
